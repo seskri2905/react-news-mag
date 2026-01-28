@@ -35,4 +35,4 @@
 
 ---
 
-## Link 🔗 [Live](https://news-mag-react-seskri2905.netlify.app)
+## Link 🔗 [Live](https://react-news-mag-sigma.vercel.app/)
