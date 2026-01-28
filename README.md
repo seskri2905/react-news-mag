@@ -2,6 +2,8 @@
 
 ## INTRODUCTION ⭐
 
+![readme-img](https://github.com/seskri2905/react-news-mag/blob/3610b825582bcc7d68f11c6b1a97c05ea6a60530/src/assets/news-image-for-readme.jpg)
+
 • The Project is about the collection of all reputed news sources in a single page
 • API is fetched through the `https://newsapi.org/` API
 
@@ -24,3 +26,13 @@
 ### Bootstrap
 
 • Learnt the Bootstrap
+
+---
+
+## Demo
+
+![readme-gif](https://github.com/seskri2905/react-news-mag/blob/3610b825582bcc7d68f11c6b1a97c05ea6a60530/src/assets/News%20Mag-for-readme.gif)
+
+---
+
+## Link 🔗 [Live](https://news-mag-react-seskri2905.netlify.app)
